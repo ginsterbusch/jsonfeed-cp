@@ -8,6 +8,8 @@ Adds a JSON Feed to your ClassicPress or WordPress site by adding `/feed/json` t
 
 The JSON Feed format is a pragmatic syndication format, like RSS and Atom, but with one big difference: it's JSON instead of XML. Learn more at [jsonfeed.org](http://jsonfeed.org/).
 
+Fork of the original JSON Feed plugin for WordPress, with partial rewrite of the overall structure.
+
 
 ## Installation 
 
